@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Bangers', cursive;
 
 }
 #canvas1 {
@@ -18,6 +19,6 @@
     transform: translate(-50%, -50%);
     pointer-events: none;
 }
-#obstacles, #bull, #egg, #toad {
+#obstacles, #bull, #egg, #toad,  #toads, #larva {
     display: none;
 }
